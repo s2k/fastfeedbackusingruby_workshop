@@ -1,0 +1,9 @@
+# Gemfile, you may want to rename it
+
+source 'https://rubygems.org'
+
+ruby '2.2.1'
+
+group :development do
+  gem 'guard', '~> 2.12'
+end
