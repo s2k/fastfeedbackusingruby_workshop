@@ -1,4 +1,4 @@
-# Simple Gaurdfile for guard-shell (from guard init command)
+# Simple Guardfile for guard-shell (from guard init command)
 # You may want to rename this file (and put it into a folder to experiment)
 
 guard :shell do
