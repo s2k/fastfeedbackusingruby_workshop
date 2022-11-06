@@ -1,5 +1,9 @@
+# Note: If you don’t use any Ruby gem, you can leave this file as it is.
+
 source 'https://rubygems.org'
 
 ruby '3.1.2'
 
-gem 'rake', '~> 13.0.6'
+# Uncomment and enter a _real_ gem name 
+# to add a gem 
+# gem ‘gem_name_here’
