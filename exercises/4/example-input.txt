@@ -1,0 +1,13 @@
+h1. A Main header
+
+h2. Another header
+
+* This list
+* is
+* unordered.
+
+# And %{color:red}this% list
+# is numbered
+
+*Bold* and _italics_ or +large+ %{color:blue;font-size:150%}@inline code@% is also possible.
+
