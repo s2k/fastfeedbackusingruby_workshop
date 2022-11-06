@@ -1,0 +1,12 @@
+def current_datetime
+  Time.now.strftime('%H:%M:%S (%Z) on %d.%m.%Y')
+end
+
+guard :shell do
+  watch(/^.+\.txt$/) { |file_match|
+    puts "File '#{file_match[0]}' matched at #{current_datetime}"
+    puts "Here's the file content:"
+    puts `cat #{file_match[0]}`, '' if file_match[0]
+  }
+end
+
