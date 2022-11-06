@@ -20,3 +20,4 @@ What is the problem with the scripts in this folder?
   echo Deleting zip file
   rm fastfeedbackusingruby_workshop.zip
   ```
+
