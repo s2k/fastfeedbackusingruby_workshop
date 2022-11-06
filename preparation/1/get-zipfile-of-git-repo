@@ -1,0 +1,3 @@
+curl -L https://github.com/s2k/fastfeedbackusingruby_workshop/archive/refs/heads/main.zip --output fastfeedbackusingruby_workshop.zip
+unzip fastfeedbackusingruby_workshop.zip
+mv fastfeedbackusingruby_workshop-main fastfeedbackusingruby_workshop
