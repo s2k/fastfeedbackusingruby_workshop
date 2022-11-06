@@ -13,5 +13,5 @@ Also see the accompanying e-book at LeanPub: [https://leanpub.com/fastfeedbackus
 
 ## The Wiki
 
-If you attended on of the workshops and have feedback, please leave it either in the [Fast Feedback Using Ruby Wiki](
+If you attended one of the workshops and have feedback, please leave it either in the [Fast Feedback Using Ruby Wiki](
 https://github.com/s2k/fastfeedbackusingruby_workshop/wiki) or [create a new issue](https://github.com/s2k/fastfeedbackusingruby_workshop/issues) righte here on GitHub.
