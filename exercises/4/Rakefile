@@ -1,0 +1,3 @@
+
+task :symbols_are_valid_task_names
+task 'And so are strings'
